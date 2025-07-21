@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm chaitanya
 
-<!--
-**chaitanya-kadali/chaitanya-kadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience - Intern at Xplra
+### Freelance
+- Adspark AI - A business landing page for a startup ( https://adspark-ai.vercel.app/ )
+- Souji Aligners - A landing page for D Dental care to show case their expertise.
 
-Here are some ideas to get you started:
+### Projects
+- Safecyber - Anti-Cyberbullying Social media | **[Code](https://github.com/chaitanya-kadali/safe-cyber.git)**
+- Hand Sign Translator - for Hand gestures | **[Code](https://github.com/chaitanya-kadali/Hand-Sign)**
+- Ayush 2.0 - SIH Hackathon 2024 | **[Code](https://github.com/chaitanya-kadali/Ayush-SIH-2024-Frontend.git)**
+- Meditrance - MERN Hackathon 2024 | **[Code](https://github.com/chaitanya-kadali/MediTrance-Hackathon-Project.git)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- VideoMeet - a peer to peer video calling app | **[Code](https://videomeet.chaitanyaworks.com/)**
